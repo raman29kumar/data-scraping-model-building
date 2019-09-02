@@ -1,4 +1,5 @@
 import random
+import csv
 import numpy as np
 from joblib import dump, load
 dt=load('DT_version1.joblib')
@@ -127,6 +128,13 @@ class genetic_optimisation():
         print("Driver's memory(GB):", (params[2]/self.storage_fraction)/1073741824 + self.overhead)
         print("number of partitions required(assuming no subsequent Job's tasks are skipped):",params[3]/self.num_jobs)
         print('Time Taken(Based on model prediction with RMSE of 58 min):',time_taken)
+        with open('output-params.csv','w') as outfile:
+            writer = csv.writer(outfile)
+            writer.writerow(['application_name', 'num_jobs', 'executor_Instances', 'executors_memory', 'driver_memory', 'data_partition',
+                             'time_taken'])
+            writer.writerow([self.app_name, self.num_jobs, params[0], ((params[1]/params[0])/self.storage_fraction)/1073741824 + self.overhead,
+                             (params[2]/self.storage_fraction)/1073741824 + self.overhead, params[3]/self.num_jobs,
+                             time_taken])
 
 if __name__=="__main__":
     raman = genetic_optimisation()
