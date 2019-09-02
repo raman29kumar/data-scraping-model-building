@@ -1,0 +1,2 @@
+application_name,num_jobs,executor_Instances,executors_memory,driver_memory,data_partition,time_taken
+risk,11,8.0,40.526811711918604,8.48563425320786,4948.883231191693,51.01730833333334
