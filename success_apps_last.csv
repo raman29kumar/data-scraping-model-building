@@ -1,0 +1,850 @@
+,application_id,appName,appStartTime,appEndTime
+1,application_1549995721539_0324,MeasureSparkJob$ - historical - measure_config_1,1552985350478.0,1552989321509.0
+2,application_1549995721539_0326,MeasureSparkJob$ - historical - measure_config_2,1552989578896.0,1552993100687.0
+3,application_1549995721539_0320,RiskSparkJob$ - historical - measure_config_1730_001,1552918049125.0,1552949082969.0
+4,application_1549995721539_0323,MeasureSparkJob$ - historical - measure_config_1,1552984650914.0,1552984661757.0
+5,application_1549995721539_0421,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555575135948.0,1555575308047.0
+6,application_1549995721539_0422,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555575921467.0,1555576212316.0
+7,application_1549995721539_0423,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555577882991.0,1555578482534.0
+8,application_1549995721539_0428,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555581532898.0,1555581829699.0
+9,application_1549995721539_0429,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555581912877.0,1555582205469.0
+10,application_1549995721539_0430,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555582590152.0,1555582880759.0
+11,application_1549995721539_0431,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555583560657.0,1555584146675.0
+12,application_1549995721539_0424,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555578978473.0,1555579278048.0
+13,application_1549995721539_0426,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555580119498.0,1555580744198.0
+14,application_1549995721539_0438,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555588200326.0,1555589089823.0
+15,application_1549995721539_0433,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555585450228.0,1555586251150.0
+16,application_1549995721539_0435,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1555587086682.0,1555587864449.0
+17,application_1549995721539_0377,ClaimAnalyticsSparkJob$ - historical - measure_config_4,1554301731582.0,1554301741388.0
+18,application_1549995721539_0389,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554476259221.0,1554476527091.0
+19,application_1549995721539_0390,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554643577864.0,1554643857671.0
+20,application_1549995721539_0391,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554651274018.0,1554653557196.0
+21,application_1549995721539_0385,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554472272531.0,1554472638559.0
+22,application_1549995721539_0387,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554473465566.0,1554475771145.0
+23,application_1549995721539_0396,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554661789755.0,1554662080600.0
+24,application_1549995721539_0397,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554662684852.0,1554662979516.0
+25,application_1549995721539_0398,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554663607958.0,1554663909264.0
+26,application_1549995721539_0399,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554664360386.0,1554664680546.0
+27,application_1549995721539_0393,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554658789474.0,1554660005531.0
+28,application_1549995721539_0394,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554660031588.0,1554660164578.0
+29,application_1549995721539_0395,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554661406318.0,1554661417356.0
+30,application_1549995721539_0400,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554665255595.0,1554666328813.0
+31,application_1549995721539_0401,ClaimAnalyticsSparkJob$ - historical - measure_config_5,1554709529938.0,1554710954125.0
+32,application_1549995721539_0222,MeasureSparkJob$ - historical - measure_config_1,1551950922136.0,1551951093240.0
+33,application_1549995721539_0223,MeasureSparkJob$ - historical - measure_config_1,1551951701978.0,1551951906929.0
+34,application_1549995721539_0228,MeasureSparkJob$ - historical - measure_config_1,1551954907090.0,1551955404752.0
+35,application_1549995721539_0229,MeasureSparkJob$ - historical - measure_config_1,1551955713488.0,1551955886788.0
+36,application_1549995721539_0224,MeasureSparkJob$ - historical - measure_config_1,1551952191940.0,1551952595499.0
+37,application_1549995721539_0226,MeasureSparkJob$ - historical - measure_config_1,1551953371400.0,1551953792597.0
+38,application_1549995721539_0227,MeasureSparkJob$ - historical - measure_config_1,1551954543550.0,1551954764411.0
+39,application_1549995721539_0239,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1552288486831.0,1552288497939.0
+40,application_1549995721539_0233,MeasureSparkJob$ - historical - measure_config_1,1551958965758.0,1551959134041.0
+41,application_1549995721539_0234,MeasureSparkJob$ - historical - measure_config_1,1551959184351.0,1551961081742.0
+42,application_1549995721539_0246,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1552297712310.0,1552299255049.0
+43,application_1549995721539_0240,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1552289387646.0,1552289563238.0
+44,application_1549995721539_0241,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1552289916709.0,1552290230177.0
+45,application_1549995721539_0201,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1551260433896.0,1551260611367.0
+46,application_1549995721539_0202,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1551261415297.0,1551261586117.0
+47,application_1549995721539_0280,DeduplicatorSparkJob$ - complete,1552398920481.0,1552402123228.0
+48,application_1549995721539_0288,DeduplicatorSparkJob$ - complete,1552473701027.0,1552476235952.0
+49,application_1549995721539_0289,MeasureSparkJob$ - historical - measure_config_2,1552476843105.0,1552479277997.0
+50,application_1549995721539_0308,ClaimAnalyticsSparkJob$ - historical - measure_config_3,1552649386893.0,1552649403579.0
+51,application_1549995721539_0311,ClaimAnalyticsSparkJob$ - historical - measure_config_3,1552651569534.0,1552651578364.0
+52,application_1549995721539_0305,ClaimAnalyticsSparkJob$ - historical - measure_config_3,1552644803435.0,1552644814088.0
+53,application_1549995721539_0253,MeasureSparkJob$ - historical - measure_config_1,1552305392761.0,1552305411625.0
+54,application_1549995721539_0248,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1552301828591.0,1552302182544.0
+55,application_1549995721539_0249,MeasureSparkJob$ - historical - measure_config_1,1552301849822.0,1552301867445.0
+56,application_1549995721539_0250,MeasureSparkJob$ - historical - measure_config_1,1552302971247.0,1552302991075.0
+57,application_1549995721539_0260,MeasureSparkJob$ - historical - measure_config_1,1552376390208.0,1552376409512.0
+58,application_1549995721539_0261,DeduplicatorSparkJob$ - complete,1552377206488.0,1552382697192.0
+59,application_1549995721539_0262,MeasureSparkJob$ - historical - measure_config_1,1552383173726.0,1552383193579.0
+60,application_1549995721539_0257,DeduplicatorSparkJob$ - complete,1552311599056.0,1552319192130.0
+61,application_1549995721539_0259,MeasureSparkJob$ - historical - measure_config_1,1552376352012.0,1552376363158.0
+62,application_1549995721539_0268,MeasureSparkJob$ - historical - measure_config_1,1552392715380.0,1552392740222.0
+63,application_1549995721539_0269,MeasureSparkJob$ - historical - measure_config_1,1552393137381.0,1552393148655.0
+64,application_1549995721539_0270,MeasureSparkJob$ - historical - measure_config_1,1552393165355.0,1552393180986.0
+65,application_1549995721539_0264,DeduplicatorSparkJob$ - complete,1552389031517.0,1552389244080.0
+66,application_1549995721539_0265,DeduplicatorSparkJob$ - complete,1552389260050.0,1552389599591.0
+67,application_1549995721539_0266,MeasureSparkJob$ - historical - measure_config_1,1552389802738.0,1552389813250.0
+68,application_1549995721539_0267,MeasureSparkJob$ - historical - measure_config_1,1552389827804.0,1552389843549.0
+69,application_1549995721539_0276,MeasureSparkJob$ - historical - measure_config_1,1552396765956.0,1552396999312.0
+70,application_1549995721539_0277,MeasureSparkJob$ - historical - measure_config_1,1552397097010.0,1552398570951.0
+71,application_1549995721539_0278,DeduplicatorSparkJob$ - complete,1552398579653.0,1552398587811.0
+72,application_1549995721539_0272,MeasureSparkJob$ - historical - measure_config_1,1552396230070.0,1552396240389.0
+73,application_1549995721539_0273,MeasureSparkJob$ - historical - measure_config_1,1552396254478.0,1552396275733.0
+74,application_1549995721539_0275,MeasureSparkJob$ - historical - measure_config_1,1552396524112.0,1552396557996.0
+75,application_1549995721539_0092,RiskSparkJob$ - historical - measure_config_1740_001,1550651055484.0,1550652190110.0
+76,application_1549995721539_0093,RiskSparkJob$ - historical - measure_config_1740_002,1550652195268.0,1550653085024.0
+77,application_1549995721539_0094,RiskSparkJob$ - historical - measure_config_1730_001,1550653089897.0,1550655522585.0
+78,application_1549995721539_0095,RiskSparkJob$ - historical - measure_config_1730_002,1550655527495.0,1550657758324.0
+79,application_1549995721539_0088,RiskSparkJob$ - historical - measure_config_1642_001,1550636099591.0,1550642286524.0
+80,application_1549995721539_0089,RiskSparkJob$ - historical - measure_config_1642_002,1550642291522.0,1550648773303.0
+81,application_1549995721539_0090,RiskSparkJob$ - historical - measure_config_1724_001,1550648778246.0,1550649923899.0
+82,application_1549995721539_0091,RiskSparkJob$ - historical - measure_config_1724_002,1550649928865.0,1550651050560.0
+83,application_1549995721539_0100,RiskSparkJob$ - historical - measure_config_1530_001,1550663222377.0,1550665236319.0
+84,application_1549995721539_0101,RiskSparkJob$ - historical - measure_config_1542_001,1550665241145.0,1550667604160.0
+85,application_1549995721539_0102,RiskSparkJob$ - historical - measure_config_1730_002,1550665474231.0,1550669108183.0
+86,application_1549995721539_0103,RiskSparkJob$ - historical - measure_config_1624_002,1550667610936.0,1550673145480.0
+87,application_1549995721539_0096,RiskSparkJob$ - historical - measure_config_1742_001,1550657763242.0,1550659763050.0
+88,application_1549995721539_0097,RiskSparkJob$ - historical - measure_config_1742_002,1550659769285.0,1550662937406.0
+89,application_1549995721539_0098,RiskSparkJob$ - historical - measure_config_1524_002,1550659769406.0,1550661397639.0
+90,application_1549995721539_0099,RiskSparkJob$ - historical - measure_config_1540_002,1550661402856.0,1550663217568.0
+91,application_1549995721539_0109,RiskSparkJob$ - historical - measure_config_1630_001,1550677888846.0,1550692311994.0
+92,application_1549995721539_0110,RiskSparkJob$ - historical - measure_config_1642_001,1550692316840.0,1550706613448.0
+93,application_1549995721539_0111,RiskSparkJob$ - historical - measure_config_1724_002,1550706618251.0,1550711139665.0
+94,application_1549995721539_0105,RiskSparkJob$ - historical - measure_config_1640_002,1550673150378.0,1550677884013.0
+95,application_1549995721539_0119,RiskSparkJob$ - historical - measure_config_1624_002,1550738685439.0,1550742449257.0
+96,application_1549995721539_0112,RiskSparkJob$ - historical - measure_config_1740_002,1550711144663.0,1550715400935.0
+97,application_1549995721539_0113,RiskSparkJob$ - historical - measure_config_1730_001,1550715405865.0,1550724375805.0
+98,application_1549995721539_0114,RiskSparkJob$ - historical - measure_config_1742_001,1550724381212.0,1550739739485.0
+99,application_1549995721539_0068,RiskSparkJob$ - historical - measure_config_1524_001,1550573637398.0,1550573712808.0
+100,application_1549995721539_0069,RiskSparkJob$ - historical - measure_config_1524_001,1550574443040.0,1550574500087.0
+101,application_1549995721539_0070,RiskSparkJob$ - historical - measure_config_1524_001,1550574799934.0,1550574879088.0
+102,application_1549995721539_0071,RiskSparkJob$ - historical - measure_config_1524_001,1550574937327.0,1550575006655.0
+103,application_1549995721539_0076,RiskSparkJob$ - historical - measure_config_1540_001,1550587536447.0,1550590382186.0
+104,application_1549995721539_0077,RiskSparkJob$ - historical - measure_config_1540_002,1550590386949.0,1550593342249.0
+105,application_1549995721539_0078,RiskSparkJob$ - historical - measure_config_1530_001,1550593347114.0,1550597811751.0
+106,application_1549995721539_0079,RiskSparkJob$ - historical - measure_config_1530_002,1550597816599.0,1550602530559.0
+107,application_1549995721539_0073,RiskSparkJob$ - historical - measure_config_1524_001,1550575172294.0,1550578134838.0
+108,application_1549995721539_0074,RiskSparkJob$ - historical - measure_config_1524_001,1550581546374.0,1550584672838.0
+109,application_1549995721539_0075,RiskSparkJob$ - historical - measure_config_1524_002,1550584677675.0,1550587531030.0
+110,application_1549995721539_0084,RiskSparkJob$ - historical - measure_config_1640_001,1550616546266.0,1550620343836.0
+111,application_1549995721539_0085,RiskSparkJob$ - historical - measure_config_1640_002,1550620348540.0,1550623899429.0
+112,application_1549995721539_0086,RiskSparkJob$ - historical - measure_config_1630_001,1550623904161.0,1550630163869.0
+113,application_1549995721539_0087,RiskSparkJob$ - historical - measure_config_1630_002,1550630168638.0,1550636094768.0
+114,application_1549995721539_0080,RiskSparkJob$ - historical - measure_config_1542_001,1550602535563.0,1550607014246.0
+115,application_1549995721539_0081,RiskSparkJob$ - historical - measure_config_1542_002,1550607019261.0,1550612266495.0
+116,application_1549995721539_0082,RiskSparkJob$ - historical - measure_config_1624_001,1550612271232.0,1550616505350.0
+117,application_1549995721539_0083,RiskSparkJob$ - historical - measure_config_1624_002,1550616510218.0,1550616541562.0
+118,application_1549995721539_0152,RiskSparkJob$ - historical - measure_config_1742_001,1550990335697.0,1551018012545.0
+119,application_1549995721539_0132,RiskSparkJob$ - historical - measure_config_1524_002,1550859486261.0,1550860792534.0
+120,application_1549995721539_0133,RiskSparkJob$ - historical - measure_config_1524_002,1550861072649.0,1550862539198.0
+121,application_1549995721539_0134,RiskSparkJob$ - historical - measure_config_1540_002,1550862544076.0,1550864259207.0
+122,application_1549995721539_0135,RiskSparkJob$ - historical - measure_config_1530_001,1550864264018.0,1550866308902.0
+123,application_1549995721539_0140,RiskSparkJob$ - historical - measure_config_1642_001,1550908927720.0,1550909625729.0
+124,application_1549995721539_0141,RiskSparkJob$ - historical - measure_config_1642_001,1550909892061.0,1550936077851.0
+125,application_1549995721539_0142,RiskSparkJob$ - historical - measure_config_1740_002,1550909995386.0,1550924464563.0
+126,application_1549995721539_0143,RiskSparkJob$ - historical - measure_config_1730_001,1550924470259.0,1550936102097.0
+127,application_1549995721539_0136,RiskSparkJob$ - historical - measure_config_1542_001,1550866313761.0,1550868202827.0
+128,application_1549995721539_0137,RiskSparkJob$ - historical - measure_config_1624_002,1550868207884.0,1550876603959.0
+129,application_1549995721539_0138,RiskSparkJob$ - historical - measure_config_1640_002,1550876608847.0,1550884414563.0
+130,application_1549995721539_0139,RiskSparkJob$ - historical - measure_config_1630_001,1550884419436.0,1550908922641.0
+131,application_1549995721539_0148,RiskSparkJob$ - historical - measure_config_1730_001,1550972263069.0,1550990331347.0
+132,application_1549995721539_0144,RiskSparkJob$ - historical - measure_config_1642_001,1550936146953.0,1550942658115.0
+133,application_1549995721539_0145,RiskSparkJob$ - historical - measure_config_1730_001,1550936192310.0,1550942683928.0
+134,application_1549995721539_0146,RiskSparkJob$ - historical - measure_config_1642_001,1550942829539.0,1550962923811.0
+135,application_1549995721539_0147,RiskSparkJob$ - historical - measure_config_1724_002,1550962928669.0,1550972258068.0
+136,application_1539186807685_0459,RiskSparkJob$ - historical - config_cdi_1,1545406809853.0,1545406891694.0
+137,application_1539186807685_0462,RiskSparkJob$ - historical - config_cdi_1,1545467772137.0,1545467881100.0
+138,application_1539186807685_0460,RiskSparkJob$ - historical - config_cdi_1,1545407247522.0,1545407290582.0
+139,application_1539186807685_0461,RiskSparkJob$ - historical - config_cdi_1,1545466926691.0,1545467015993.0
+140,application_1539186807685_0474,RiskSparkJob$ - historical - config_cdi_4,1545574684099.0,1545599638314.0
+141,application_1539186807685_0473,RiskSparkJob$ - historical - config_cdi_3,1545574652542.0,1545585006488.0
+142,application_1539186807685_0478,RiskSparkJob$ - historical - config_peak_1,1545915801895.0,1545916254539.0
+143,application_1539186807685_0479,RiskSparkJob$ - historical - config_peak_1,1545916281725.0,1545916298184.0
+144,application_1539186807685_0476,RiskSparkJob$ - historical - config_peak_1,1545911054213.0,1545912926350.0
+145,application_1539186807685_0477,RiskSparkJob$ - historical - config_peak_1,1545913794129.0,1545915756853.0
+146,application_1539186807685_0466,RiskSparkJob$ - historical - config_cdi_1,1545494435723.0,1545494451768.0
+147,application_1539186807685_0467,RiskSparkJob$ - historical - config_cdi_1,1545495549536.0,1545495564329.0
+148,application_1539186807685_0465,RiskSparkJob$ - historical - config_cdi_1,1545494096179.0,1545494103730.0
+149,application_1539186807685_0470,RiskSparkJob$ - historical - config_cdi_2,1545498163640.0,1545525991470.0
+150,application_1539186807685_0468,RiskSparkJob$ - historical - config_cdi_1,1545496351496.0,1545496367638.0
+151,application_1539186807685_0469,RiskSparkJob$ - historical - config_cdi_1,1545496804250.0,1545509971097.0
+152,application_1539186807685_0418,RiskSparkJob$ - historical - config_cdi_1,1545318897214.0,1545328676638.0
+153,application_1539186807685_0419,RiskSparkJob$ - historical - config_cdi_2,1545319220050.0,1545343338664.0
+154,application_1539186807685_0416,RiskSparkJob$ - historical - config_cdi_1,1545317871522.0,1545318117809.0
+155,application_1539186807685_0488,RiskSparkJob$ - historical - config_peak_1,1545980324398.0,1545982650862.0
+156,application_1539186807685_0482,RiskSparkJob$ - historical - config_peak_1,1545919762152.0,1545920059240.0
+157,application_1539186807685_0483,RiskSparkJob$ - historical - config_peak_1,1545920078666.0,1545920447946.0
+158,application_1539186807685_0480,RiskSparkJob$ - historical - config_peak_1,1545916372861.0,1545916404213.0
+159,application_1539186807685_0481,RiskSparkJob$ - historical - config_peak_1,1545916456222.0,1545916546065.0
+160,application_1539186807685_0486,RiskSparkJob$ - historical - config_peak_1,1545922512232.0,1545924409811.0
+161,application_1539186807685_0487,RiskSparkJob$ - historical - config_peak_1,1545978123946.0,1545980096840.0
+162,application_1539186807685_0484,RiskSparkJob$ - historical - config_peak_1,1545920473398.0,1545920878218.0
+163,application_1539186807685_0485,RiskSparkJob$ - historical - config_peak_1,1545920884247.0,1545922492444.0
+164,application_1539186807685_0330,RiskSparkJob$ - historical - config_cdi_1,1544716371339.0,1544718265215.0
+165,application_1539186807685_0331,RiskSparkJob$ - historical - config_cdi_2,1544716558936.0,1544720962386.0
+166,application_1539186807685_0328,RiskSparkJob$ - historical - config_cdi_1,1544713037596.0,1544715017364.0
+167,application_1539186807685_0329,RiskSparkJob$ - historical - config_cdi_1,1544715248870.0,1544715298094.0
+168,application_1539186807685_0334,RiskSparkJob$ - historical - config_cdi_1,1544722669950.0,1544732575710.0
+169,application_1539186807685_0335,RiskSparkJob$ - historical - config_cdi_2,1544722937712.0,1544751023312.0
+170,application_1539186807685_0322,RiskSparkJob$ - historical - config_cdi_1,1544702810585.0,1544702873155.0
+171,application_1539186807685_0323,RiskSparkJob$ - historical - config_cdi_1,1544704794112.0,1544704823584.0
+172,application_1539186807685_0320,RiskSparkJob$ - historical - config_cdi_1,1544701386744.0,1544701432968.0
+173,application_1539186807685_0326,RiskSparkJob$ - historical - config_cdi_1,1544709888887.0,1544712131802.0
+174,application_1539186807685_0327,RiskSparkJob$ - historical - config_cdi_1,1544712381638.0,1544712484592.0
+175,application_1539186807685_0324,RiskSparkJob$ - historical - config_cdi_1,1544705438540.0,1544705523358.0
+176,application_1539186807685_0325,RiskSparkJob$ - historical - config_cdi_1,1544707006499.0,1544709712534.0
+177,application_1539186807685_0347,RiskSparkJob$ - historical - config_cdi_1,1544789222887.0,1544789355892.0
+178,application_1539186807685_0348,RiskSparkJob$ - historical - config_cdi_1,1544789788586.0,1544789913059.0
+179,application_1539186807685_0349,RiskSparkJob$ - historical - config_cdi_1,1544790386820.0,1544790451896.0
+180,application_1539186807685_0296,RiskSparkJob$ - historical - config_cdi_2,1544532549640.0,1544541667080.0
+181,application_1539186807685_0294,RiskSparkJob$ - historical - config_cdi_2,1544531843141.0,1544532193765.0
+182,application_1539186807685_0295,RiskSparkJob$ - historical - config_cdi_1,1544532538710.0,1544536907609.0
+183,application_1539186807685_0293,RiskSparkJob$ - historical - config_cdi_1,1544531700359.0,1544532178926.0
+184,application_1539186807685_0318,RiskSparkJob$ - historical - config_cdi_1,1544698674464.0,1544698874147.0
+185,application_1539186807685_0319,RiskSparkJob$ - historical - config_cdi_1,1544700385211.0,1544700533873.0
+186,application_1539186807685_0414,RiskSparkJob$ - historical - config_cdi_1,1545317048079.0,1545317056745.0
+187,application_1539186807685_0415,RiskSparkJob$ - historical - config_cdi_1,1545317322373.0,1545317330521.0
+188,application_1539186807685_0413,RiskSparkJob$ - historical - config_cdi_1,1545316321704.0,1545316334611.0
+189,application_1539186807685_0403,RiskSparkJob$ - historical - config_cdi_3,1545295788107.0,1545295878362.0
+190,application_1539186807685_0406,RiskSparkJob$ - historical - config_cdi_4,1545304515663.0,1545314007424.0
+191,application_1539186807685_0404,RiskSparkJob$ - historical - config_cdi_3,1545296400796.0,1545305635316.0
+192,application_1539186807685_0405,RiskSparkJob$ - historical - config_cdi_4,1545303693429.0,1545303729440.0
+193,application_1539186807685_0584,RiskSparkJob$ - historical - i,1549626035193.0,1549626043068.0
+194,application_1539186807685_0585,RiskSparkJob$ - historical - i,1549626047726.0,1549626055840.0
+195,application_1539186807685_0590,RiskSparkJob$ - historical - measure_config_1540_001,1549626754437.0,1549626805648.0
+196,application_1539186807685_0591,RiskSparkJob$ - historical - i,1549626882443.0,1549626896253.0
+197,application_1539186807685_0588,RiskSparkJob$ - historical - measure_config_1524_001,1549626250844.0,1549626303850.0
+198,application_1539186807685_0589,RiskSparkJob$ - historical - measure_config_1524_002,1549626349730.0,1549626383571.0
+199,application_1539186807685_0578,RiskSparkJob$ - historical - measure_config_1524_001,1549621890663.0,1549621907376.0
+200,application_1539186807685_0579,RiskSparkJob$ - historical - measure_config_1524_001,1549622162000.0,1549622219443.0
+201,application_1539186807685_0577,RiskSparkJob$ - historical - measure_config_1524_001,1549621261134.0,1549621269091.0
+202,application_1539186807685_0582,RiskSparkJob$ - historical - i,1549626009114.0,1549626017641.0
+203,application_1539186807685_0583,RiskSparkJob$ - historical - i,1549626022578.0,1549626030454.0
+204,application_1539186807685_0580,RiskSparkJob$ - historical - measure_config_1524_001,1549622314337.0,1549622359412.0
+205,application_1539186807685_0581,RiskSparkJob$ - historical - measure_config_1524_001,1549622672193.0,1549622778718.0
+206,application_1539186807685_0602,RiskSparkJob$ - historical - measure_config_1540_002,1549638348856.0,1549641286010.0
+207,application_1539186807685_0603,RiskSparkJob$ - historical - measure_config_1530_001,1549641291005.0,1549645958678.0
+208,application_1539186807685_0600,RiskSparkJob$ - historical - measure_config_1524_002,1549632547768.0,1549635470112.0
+209,application_1539186807685_0601,RiskSparkJob$ - historical - measure_config_1540_001,1549635475196.0,1549638343820.0
+210,application_1539186807685_0606,RiskSparkJob$ - historical - measure_config_1542_002,1549656178421.0,1549660998204.0
+211,application_1539186807685_0607,RiskSparkJob$ - historical - measure_config_1624_001,1549661003979.0,1549665124680.0
+212,application_1539186807685_0604,RiskSparkJob$ - historical - measure_config_1530_002,1549645963796.0,1549651285276.0
+213,application_1539186807685_0605,RiskSparkJob$ - historical - measure_config_1542_001,1549651290786.0,1549656173242.0
+214,application_1539186807685_0594,RiskSparkJob$ - historical - i,1549627040594.0,1549627054805.0
+215,application_1539186807685_0595,RiskSparkJob$ - historical - i,1549627059772.0,1549627075423.0
+216,application_1539186807685_0593,RiskSparkJob$ - historical - i,1549627018217.0,1549627035750.0
+217,application_1539186807685_0599,RiskSparkJob$ - historical - measure_config_1524_001,1549629600762.0,1549632542637.0
+218,application_1539186807685_0596,RiskSparkJob$ - historical - measure_config_1524_001,1549627225122.0,1549627274407.0
+219,application_1539186807685_0597,RiskSparkJob$ - historical - measure_config_1524_002,1549627279381.0,1549627324044.0
+220,application_1539186807685_0618,RiskSparkJob$ - historical - measure_config_1740_002,1549701226101.0,1549702044359.0
+221,application_1539186807685_0619,RiskSparkJob$ - historical - measure_config_1730_001,1549702049382.0,1549704239918.0
+222,application_1539186807685_0616,RiskSparkJob$ - historical - measure_config_1724_002,1549699461047.0,1549700300255.0
+223,application_1539186807685_0617,RiskSparkJob$ - historical - measure_config_1740_001,1549700305299.0,1549701221196.0
+224,application_1539186807685_0622,RiskSparkJob$ - historical - measure_config_1742_002,1549708389400.0,1549710401922.0
+225,application_1539186807685_0620,RiskSparkJob$ - historical - measure_config_1730_002,1549704245062.0,1549706321843.0
+226,application_1539186807685_0621,RiskSparkJob$ - historical - measure_config_1742_001,1549706326957.0,1549708384418.0
+227,application_1539186807685_0610,RiskSparkJob$ - historical - measure_config_1640_002,1549671992299.0,1549675537098.0
+228,application_1539186807685_0611,RiskSparkJob$ - historical - measure_config_1630_001,1549675542180.0,1549681445667.0
+229,application_1539186807685_0608,RiskSparkJob$ - historical - measure_config_1624_002,1549665129672.0,1549668494003.0
+230,application_1539186807685_0609,RiskSparkJob$ - historical - measure_config_1640_001,1549668499391.0,1549671987326.0
+231,application_1539186807685_0614,RiskSparkJob$ - historical - measure_config_1642_002,1549692996293.0,1549698508216.0
+232,application_1539186807685_0615,RiskSparkJob$ - historical - measure_config_1724_001,1549698513288.0,1549699455773.0
+233,application_1539186807685_0612,RiskSparkJob$ - historical - measure_config_1630_002,1549681450787.0,1549687206489.0
+234,application_1539186807685_0613,RiskSparkJob$ - historical - measure_config_1642_001,1549687211631.0,1549692991141.0
+235,application_1539186807685_0014,MeasureSparkJob$,1539331317323.0,1539331325852.0
+236,application_1539186807685_0026,MeasureSparkJob$,1539342568644.0,1539342586183.0
+237,application_1539186807685_0018,MeasureSparkJob$,1539332795272.0,1539332804719.0
+238,application_1539186807685_0019,MeasureSparkJob$,1539332877774.0,1539332893209.0
+239,application_1539186807685_0016,MeasureSparkJob$,1539332612126.0,1539332619371.0
+240,application_1539186807685_0017,MeasureSparkJob$,1539332689250.0,1539332697183.0
+241,application_1539186807685_0022,MeasureSparkJob$,1539339310114.0,1539339327386.0
+242,application_1539186807685_0023,MeasureSparkJob$,1539339358315.0,1539339704110.0
+243,application_1539186807685_0020,MeasureSparkJob$,1539333557447.0,1539333763559.0
+244,application_1539186807685_0021,MeasureSparkJob$,1539333805730.0,1539339285652.0
+245,application_1539186807685_0216,RiskSparkJob$,1542365509935.0,1542370043130.0
+246,application_1539186807685_0222,RiskSparkJob$,1542720818924.0,1542725721416.0
+247,application_1539186807685_0223,RiskSparkJob$,1542722958186.0,1542725718296.0
+248,application_1539186807685_0210,RiskSparkJob$,1542292039764.0,1542292058041.0
+249,application_1539186807685_0211,RiskSparkJob$,1542292344728.0,1542300699719.0
+250,application_1539186807685_0208,RiskSparkJob$,1542289861731.0,1542291623390.0
+251,application_1539186807685_0209,RiskSparkJob$,1542291768031.0,1542291776832.0
+252,application_1539186807685_0214,RiskSparkJob$,1542351773899.0,1542358812986.0
+253,application_1539186807685_0212,RiskSparkJob$,1542351284150.0,1542351449240.0
+254,application_1539186807685_0213,RiskSparkJob$,1542351762763.0,1542351766619.0
+255,application_1539186807685_0270,RiskSparkJob$ - historical - config_cdi_1,1544007302558.0,1544008004142.0
+256,application_1539186807685_0271,RiskSparkJob$ - historical - config_cdi_1,1544008970711.0,1544009552277.0
+257,application_1539186807685_0269,RiskSparkJob$ - historical - config_cdi_1,1544005574274.0,1544005908823.0
+258,application_1539186807685_0274,RiskSparkJob$ - historical - config_cdi_1,1544018503301.0,1544020110992.0
+259,application_1539186807685_0275,RiskSparkJob$ - historical - config_cdi_1,1544022684530.0,1544022896786.0
+260,application_1539186807685_0272,RiskSparkJob$ - historical - config_cdi_1,1544009917422.0,1544011559817.0
+261,application_1539186807685_0273,RiskSparkJob$ - historical - config_cdi_1,1544015451076.0,1544017246075.0
+262,application_1539186807685_0276,RiskSparkJob$ - historical - config_cdi_1,1544023110707.0,1544027380565.0
+263,application_1539186807685_0277,RiskSparkJob$ - historical - config_cdi_2,1544082409951.0,1544087009476.0
+264,application_1539186807685_0227,RiskSparkJob$,1542728166872.0,1542733570324.0
+265,application_1539186807685_0042,MeasureSparkJob$,1539351676623.0,1539351693642.0
+266,application_1539186807685_0040,MeasureSparkJob$,1539350796272.0,1539350813272.0
+267,application_1539186807685_0041,MeasureSparkJob$,1539351476114.0,1539351495079.0
+268,application_1539186807685_0046,MeasureSparkJob$,1539354287938.0,1539354304830.0
+269,application_1539186807685_0047,MeasureSparkJob$,1539355534363.0,1539355583684.0
+270,application_1539186807685_0045,MeasureSparkJob$,1539353437488.0,1539353453747.0
+271,application_1539186807685_0034,MeasureSparkJob$,1539350410102.0,1539350418202.0
+272,application_1539186807685_0035,MeasureSparkJob$,1539350455987.0,1539350473056.0
+273,application_1539186807685_0039,MeasureSparkJob$,1539350725889.0,1539350741851.0
+274,application_1539186807685_0036,MeasureSparkJob$,1539350508874.0,1539350525923.0
+275,application_1539186807685_0037,MeasureSparkJob$,1539350564270.0,1539350592764.0
+276,application_1538575532393_0076,MeasureSparkJob$,1538999392832.0,1538999402343.0
+277,=======,,,
+278,application_1545136550687_5628,RiskSparkJob$ - historical - measure_config_risk_HHS_2019_model,1565106378305.0,1565106971857.0
+279,application_1545136550687_5634,RiskSparkJob$ - historical - measure_config_risk_HHS_2019_model,1565117037429.0,1565117630526.0
+280,application_1545136550687_5637,RiskSparkJob$ - historical - measure_config_risk_HHS_2019_model,1565159197566.0,1565169202166.0
+281,application_1545136550687_5617,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1565078101363.0,1565096404655.0
+282,application_1545136550687_5778,RiskSparkJob$ - historical - measure_config_risk_2018_model,1565374465373.0,1565374537461.0
+283,application_1545136550687_5779,RiskSparkJob$ - historical - measure_config_risk_2018_model,1565375599942.0,1565375664494.0
+284,application_1545136550687_5741,RiskSparkJob$ - historical - measure_config_risk_2018_model,1565336159858.0,1565336225816.0
+285,application_1545136550687_5743,RiskSparkJob$ - historical - measure_config_risk_2018_model,1565336709340.0,1565337553230.0
+286,application_1545136550687_5823,RiskSparkJob$ - historical - measure_config_risk_2018_model,1565588369600.0,1565588436465.0
+287,application_1545136550687_6058,RiskSparkJob$ - historical - measure_config_risk_2019_model,1566389550695.0,1566389783735.0
+288,application_1545136550687_6057,RiskSparkJob$ - historical - measure_config_risk_2019_model,1566389171425.0,1566389203252.0
+289,application_1545136550687_6059,RiskSparkJob$ - historical - measure_config_risk_2019_model,1566392419459.0,1566394947532.0
+290,application_1545136550687_6279,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1566914583008.0,1566935709372.0
+291,application_1545136550687_4344,MeasureSparkJob$ - historical - measure_config_disney_2018,1561386150137.0,1561388890469.0
+292,application_1545136550687_4348,MeasureSparkJob$ - historical - measure_config_disney_2018,1561439617793.0,1561442536153.0
+293,application_1545136550687_4317,MeasureSparkJob$ - historical - measure_config_disney_2018,1561295991611.0,1561303931420.0
+294,application_1545136550687_4319,MeasureSparkJob$ - historical - measure_config_disney_2018,1561362402204.0,1561364883513.0
+295,application_1545136550687_4324,MeasureSparkJob$ - historical - measure_config_disney_2018,1561371408814.0,1561378087414.0
+296,application_1545136550687_4296,MeasureSparkJob$ - historical - measure_config_disney_2019,1561214469578.0,1561219542292.0
+297,application_1545136550687_4295,MeasureSparkJob$ - historical - measure_config_disney_2019,1561214188993.0,1561214270360.0
+298,application_1545136550687_4297,MeasureSparkJob$ - historical - measure_config_disney_2018,1561222162865.0,1561233633535.0
+299,application_1545136550687_4293,MeasureSparkJob$ - historical - measure_config_disney_2019,1561206922806.0,1561212199165.0
+300,application_1545136550687_4275,DeduplicatorSparkJob$ - complete,1561200304033.0,1561202371710.0
+301,application_1545136550687_4248,ClaimAnalyticsSparkJob$ - historical - measure_config_util_mssp_2018,1561103887031.0,1561103914947.0
+302,application_1545136550687_4249,ClaimAnalyticsSparkJob$ - historical - measure_config_util_mssp_2018,1561104271250.0,1561104302101.0
+303,application_1545136550687_4497,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1561726435000.0,1561734841962.0
+304,application_1545136550687_4466,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1561687616450.0,1561693415915.0
+305,application_1545136550687_4465,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1561649526364.0,1561653363239.0
+306,application_1545136550687_4470,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1561708141244.0,1561716836529.0
+307,application_1545136550687_4443,DeduplicatorSparkJob$ - complete,1561631990411.0,1561632149348.0
+308,application_1545136550687_4446,DeduplicatorSparkJob$ - complete,1561632523727.0,1561633031669.0
+309,application_1545136550687_4434,MeasureSparkJob$ - historical - m29d455cb-ef2b-40db-8190-6344d01ece28,1561566405585.0,1561575697770.0
+310,application_1545136550687_4433,DeduplicatorSparkJob$ - complete,1561559926380.0,1561561936153.0
+311,application_1545136550687_4406,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1561538678506.0,1561542761902.0
+312,application_1545136550687_4405,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1561537117774.0,1561538040333.0
+313,application_1545136550687_4626,RiskSparkJob$ - historical - measure_config_risk_2018_model,1562085852196.0,1562090304362.0
+314,application_1545136550687_4600,RiskSparkJob$ - historical - measure_config_risk_2018_model,1562058008219.0,1562080922125.0
+315,application_1545136550687_4599,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1562056038435.0,1562058900227.0
+316,application_1545136550687_4595,RiskSparkJob$ - historical - measure_config_risk_2019_model,1561996122790.0,1562012191025.0
+317,application_1545136550687_4598,RiskSparkJob$ - historical - measure_config_risk_2018_model,1562047765366.0,1562053566827.0
+318,application_1545136550687_4557,RiskSparkJob$ - historical - measure_config_risk_HHS_2019_model,1561896529486.0,1561899364476.0
+319,application_1545136550687_4526,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1561807145523.0,1561808635041.0
+320,application_1545136550687_4506,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1561735184448.0,1561752740878.0
+321,application_1545136550687_4727,MeasureSparkJob$ - historical - measure_config_2019_wi,1562255037776.0,1562268583210.0
+322,application_1545136550687_4720,DeduplicatorSparkJob$ - complete,1562251333160.0,1562253389477.0
+323,application_1545136550687_4872,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562751241370.0,1562751291522.0
+324,application_1545136550687_4860,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1562681427172.0,1562681439567.0
+325,application_1545136550687_4862,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562681793002.0,1562681818323.0
+326,application_1545136550687_4861,ClaimAnalyticsSparkJob$ - historical - measure_config_1,1562681612491.0,1562681638608.0
+327,application_1545136550687_4864,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562682317913.0,1562682367988.0
+328,application_1545136550687_4863,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562681982289.0,1562682009571.0
+329,application_1545136550687_4866,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562682677422.0,1562682728737.0
+330,application_1545136550687_4865,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562682536202.0,1562682566049.0
+331,application_1545136550687_4869,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562746279735.0,1562746639006.0
+332,application_1545136550687_4953,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562917269438.0,1562919514322.0
+333,application_1545136550687_4960,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562923804569.0,1562924918822.0
+334,application_1545136550687_4937,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562844707240.0,1562844761752.0
+335,application_1545136550687_4939,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562845560520.0,1562845600391.0
+336,application_1545136550687_4942,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562846449806.0,1562846524247.0
+337,application_1545136550687_4941,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562845961697.0,1562846004731.0
+338,application_1545136550687_4944,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562852017605.0,1562852084831.0
+339,application_1545136550687_4943,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562847183640.0,1562847252635.0
+340,application_1545136550687_4946,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562852796718.0,1562852875638.0
+341,application_1545136550687_4945,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562852113787.0,1562852182336.0
+342,application_1545136550687_4948,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562853642485.0,1562853687410.0
+343,application_1545136550687_4947,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562853413747.0,1562853455088.0
+344,application_1545136550687_4950,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562854225296.0,1562857824949.0
+345,application_1545136550687_4949,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562853864221.0,1562853911601.0
+346,application_1545136550687_4934,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562844293933.0,1562844327636.0
+347,application_1545136550687_4908,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562830660243.0,1562830740017.0
+348,application_1545136550687_4907,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562828865728.0,1562828965945.0
+349,application_1545136550687_4910,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562832071411.0,1562832169942.0
+350,application_1545136550687_4912,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562833860238.0,1562833951202.0
+351,application_1545136550687_4911,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562833265360.0,1562833317892.0
+352,application_1545136550687_4913,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562835422547.0,1562835523693.0
+353,application_1545136550687_4918,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562841241110.0,1562841279138.0
+354,application_1545136550687_4894,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562763149452.0,1562763159892.0
+355,application_1545136550687_4893,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562762424528.0,1562762469173.0
+356,application_1545136550687_4896,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562763671454.0,1562763720220.0
+357,application_1545136550687_4895,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562763397377.0,1562763421669.0
+358,application_1545136550687_4897,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562763857879.0,1562763940264.0
+359,application_1545136550687_4902,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562769221031.0,1562769295878.0
+360,application_1545136550687_4901,ClaimAnalyticsSparkJob$ - historical - measure_config_xyz,1562768717409.0,1562768781147.0
+361,application_1545136550687_3336,MeasureSparkJob$ - historical - measure_config_disney_2018,1558411660376.0,1558414943194.0
+362,application_1545136550687_3338,MeasureSparkJob$ - historical - measure_config_2017_mix,1558421812621.0,1558421842383.0
+363,application_1545136550687_3337,MeasureSparkJob$ - historical - measure_config_disney_2018,1558419225965.0,1558422651744.0
+364,application_1545136550687_3340,MeasureSparkJob$ - historical - m7a73ad0a-d0b0-421b-add1-9663dde6a7f8,1558422583950.0,1558422614292.0
+365,application_1545136550687_3339,MeasureSparkJob$ - historical - measure_config_2017_mix,1558422209378.0,1558422239141.0
+366,application_1545136550687_3342,MeasureSparkJob$ - historical - measure_config_disney_2017,1558430263206.0,1558435385956.0
+367,application_1545136550687_3341,MeasureSparkJob$ - historical - m7a73ad0a-d0b0-421b-add1-9663dde6a7f8,1558422833981.0,1558429925786.0
+368,application_1545136550687_3334,DeduplicatorSparkJob$ - complete,1558409284721.0,1558411087920.0
+369,application_1545136550687_3333,DeduplicatorSparkJob$ - complete,1558408845208.0,1558408852636.0
+370,application_1545136550687_3246,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1558092717832.0,1558096059684.0
+371,application_1545136550687_3247,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1558105181076.0,1558115636745.0
+372,application_1545136550687_3250,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1558107916375.0,1558127426827.0
+373,application_1545136550687_3249,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1558107790267.0,1558107823657.0
+374,application_1545136550687_3226,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1558014538080.0,1558014619554.0
+375,application_1545136550687_3227,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1558014696896.0,1558016970228.0
+376,application_1545136550687_3463,MeasureSparkJob$ - historical - measure_config_disney_2017,1558602607195.0,1558612287149.0
+377,application_1545136550687_3434,MeasureSparkJob$ - historical - measure_config_disney_2017,1558585874928.0,1558588913376.0
+378,application_1545136550687_3435,MeasureSparkJob$ - historical - measure_config_disney_2017,1558589104751.0,1558591920580.0
+379,application_1545136550687_3417,MeasureSparkJob$ - historical - measure_config_disney_2018,1558529826044.0,1558534146251.0
+380,application_1545136550687_3419,MeasureSparkJob$ - historical - measure_config_disney_2017,1558534319211.0,1558551222735.0
+381,application_1545136550687_3426,MeasureSparkJob$ - historical - measure_config_disney_2017,1558552046812.0,1558573078248.0
+382,application_1545136550687_3428,MeasureSparkJob$ - historical - measure_config_disney_2017,1558582967358.0,1558585759236.0
+383,application_1545136550687_3429,MeasureSparkJob$ - historical - mssp_chronic,1558583253947.0,1558583309958.0
+384,application_1545136550687_3384,MeasureSparkJob$ - historical - measure_config_disney_2019,1558454610589.0,1558461358725.0
+385,application_1545136550687_3387,MeasureSparkJob$ - historical - measure_config_disney_2018,1558498519436.0,1558519360504.0
+386,application_1545136550687_3391,MeasureSparkJob$ - historical - measure_config_disney_2018,1558520920502.0,1558523327352.0
+387,application_1545136550687_3395,MeasureSparkJob$ - historical - mssp_chronic,1558521968241.0,1558527135354.0
+388,application_1545136550687_3397,MeasureSparkJob$ - historical - measure_config_disney_2018,1558524155641.0,1558526040444.0
+389,application_1545136550687_3368,MeasureSparkJob$ - historical - measure_config_disney_2019,1558445647198.0,1558451680383.0
+390,application_1545136550687_3367,MeasureSparkJob$ - historical - measure_config_disney_2019,1558445432297.0,1558445461692.0
+391,application_1545136550687_3382,MeasureSparkJob$ - historical - measure_config_disney_2019,1558453868433.0,1558454309336.0
+392,application_1545136550687_3381,MeasureSparkJob$ - historical - measure_config_disney_2018,1558453302605.0,1558456278471.0
+393,application_1545136550687_3357,MeasureSparkJob$ - historical - measure_config_disney_2018,1558437708204.0,1558447488507.0
+394,application_1545136550687_3366,MeasureSparkJob$ - historical - measure_config_disney_2019,1558444982562.0,1558445332439.0
+395,application_1545136550687_3365,MeasureSparkJob$ - historical - measure_config_disney_2019,1558444807518.0,1558444849144.0
+396,application_1545136550687_3598,MeasureSparkJob$ - historical - mssp_chronic,1558952094482.0,1558952125567.0
+397,application_1545136550687_3599,MeasureSparkJob$ - historical - mssp_chronic,1558952400767.0,1558952437300.0
+398,application_1545136550687_3602,MeasureSparkJob$ - historical - 8677249f-aeb3-4c94-bd32-f0ced27c24d5,1558953899246.0,1558953928165.0
+399,application_1545136550687_3568,MeasureSparkJob$ - historical - measure_config_disney_2017,1558809972988.0,1558841460517.0
+400,application_1545136550687_3570,MeasureSparkJob$ - historical - measure_config_disney_2017,1558847235215.0,1558853830571.0
+401,application_1545136550687_3519,MeasureSparkJob$ - historical - measure_config_disney_2019,1558684342984.0,1558687074144.0
+402,application_1545136550687_3498,MeasureSparkJob$ - historical - measure_config_disney_2017,1558613327232.0,1558631989793.0
+403,application_1545136550687_3504,MeasureSparkJob$ - historical - measure_config_disney_2018,1558640522300.0,1558643996908.0
+404,application_1545136550687_3505,MeasureSparkJob$ - historical - mssp_chronic,1558662459001.0,1558662487515.0
+405,application_1545136550687_3671,MeasureSparkJob$ - historical - tmhp_chronic,1559059849079.0,1559066614451.0
+406,application_1545136550687_3675,MeasureSparkJob$ - historical - mssp_chronic,1559101305587.0,1559107191646.0
+407,application_1545136550687_3665,MeasureSparkJob$ - historical - disney_chronic,1559053744074.0,1559056710584.0
+408,application_1545136550687_3669,MeasureSparkJob$ - historical - mssp_chronic,1559056898622.0,1559056928346.0
+409,application_1545136550687_3968,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1560245957116.0,1560246194227.0
+410,application_1545136550687_3930,MeasureSparkJob$ - historical - m7a73ad0a-d0b0-421b-add1-9663dde6a7f8,1560150765773.0,1560150810262.0
+411,application_1545136550687_3931,MeasureSparkJob$ - historical - m7a73ad0a-d0b0-421b-add1-9663dde6a7f8,1560150869494.0,1560150923148.0
+412,application_1545136550687_3934,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1560160359840.0,1560160430336.0
+413,application_1545136550687_3933,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1560160230771.0,1560160260812.0
+414,application_1545136550687_3940,RiskSparkJob$ - historical - measure_config_risk_HHS_2018_model,1560165261352.0,1560165308475.0
+415,application_1545136550687_3900,DeduplicatorSparkJob$ - complete,1559909687328.0,1559909698518.0
+416,application_1545136550687_3899,DeduplicatorSparkJob$ - complete,1559909333525.0,1559909344739.0
+417,application_1545136550687_3902,DeduplicatorSparkJob$ - complete,1559910364603.0,1559910373800.0
+418,application_1545136550687_3901,DeduplicatorSparkJob$ - complete,1559910137734.0,1559910149239.0
+419,application_1545136550687_3904,DeduplicatorSparkJob$ - complete,1559910797462.0,1559910810275.0
+420,application_1545136550687_3903,DeduplicatorSparkJob$ - complete,1559910555197.0,1559910567901.0
+421,application_1545136550687_3905,DeduplicatorSparkJob$ - complete,1559910967103.0,1559911146138.0
+422,application_1545136550687_3886,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1559828908428.0,1559828945497.0
+423,application_1545136550687_3885,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1559828734731.0,1559828773211.0
+424,application_1545136550687_3888,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1559831200330.0,1559845077773.0
+425,application_1545136550687_4071,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560497372012.0,1560497408127.0
+426,application_1545136550687_4040,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560419251929.0,1560419289870.0
+427,application_1545136550687_4039,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560416988907.0,1560417024536.0
+428,application_1545136550687_4041,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560419716806.0,1560419752640.0
+429,application_1545136550687_4024,DeduplicatorSparkJob$ - complete,1560349242865.0,1560351245681.0
+430,application_1545136550687_4032,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560413541893.0,1560413579778.0
+431,application_1545136550687_4034,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560415315829.0,1560415352524.0
+432,application_1545136550687_4033,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560414911751.0,1560414947687.0
+433,application_1545136550687_4036,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560415968247.0,1560416003215.0
+434,application_1545136550687_4035,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560415704576.0,1560415739464.0
+435,application_1545136550687_4038,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560416759389.0,1560416794821.0
+436,application_1545136550687_4037,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model_CDI,1560416191370.0,1560416226149.0
+437,application_1545136550687_3997,DeduplicatorSparkJob$ - complete,1560328756464.0,1560328764640.0
+438,application_1545136550687_4238,ClaimAnalyticsSparkJob$ - historical - measure_config_utilization_disney_2017,1561036978061.0,1561036987848.0
+439,application_1545136550687_4240,ClaimAnalyticsSparkJob$ - historical - measure_config_util_mssp_2018,1561037480679.0,1561037492086.0
+440,application_1545136550687_4239,ClaimAnalyticsSparkJob$ - historical - measure_config_utilization_disney_2017,1561037188219.0,1561037197673.0
+441,application_1545136550687_4241,ClaimAnalyticsSparkJob$ - historical - measure_config_util_mssp_2018,1561037634070.0,1561037661122.0
+442,application_1545136550687_4151,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1560779191828.0,1560779220423.0
+443,application_1545136550687_4150,RiskSparkJob$ - historical - measure_config_risk_2019_model,1560779029255.0,1560779067322.0
+444,application_1545136550687_2243,MeasureSparkJob$ - historical - measure_config_disney_2019,1555580151308.0,1555584817745.0
+445,application_1545136550687_2412,MeasureSparkJob$ - historical - measure_config_disney_2017,1556176327532.0,1556176353886.0
+446,application_1545136550687_2414,MeasureSparkJob$ - historical - measure_config_disney_2017,1556177581962.0,1556177667750.0
+447,application_1545136550687_2413,MeasureSparkJob$ - historical - measure_config_disney_2017,1556176753770.0,1556176778472.0
+448,application_1545136550687_2574,MeasureSparkJob$ - historical - measure_config_disney_2019,1556620286533.0,1556620314089.0
+449,application_1545136550687_2575,DeduplicatorSparkJob$ - complete,1556620387916.0,1556621878467.0
+450,application_1545136550687_2554,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2019,1556559704019.0,1556566409624.0
+451,application_1545136550687_2553,MeasureSparkJob$ - historical - measure_config_2019_mix_prev_12,1556559647233.0,1556562865715.0
+452,application_1545136550687_2555,MeasureSparkJob$ - historical - measure_config_disney_2019,1556559758159.0,1556567169504.0
+453,application_1545136550687_2558,MeasureSparkJob$ - historical - measure_config_disney_2019,1556602397083.0,1556607168499.0
+454,application_1545136550687_2560,MeasureSparkJob$ - historical - measure_config_disney_2018,1556603058832.0,1556606661180.0
+455,application_1545136550687_2562,MeasureSparkJob$ - historical - mssp_2019,1556605046921.0,1556612245702.0
+456,application_1545136550687_2563,MeasureSparkJob$ - historical - measure_config_disney_2018,1556607547319.0,1556619313574.0
+457,application_1545136550687_2546,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1556546920746.0,1556557521860.0
+458,application_1545136550687_2550,MeasureSparkJob$ - historical - measure_config_2019_mix,1556548946238.0,1556564402407.0
+459,application_1545136550687_2520,MeasureSparkJob$ - historical - mssp_2017,1556528183657.0,1556559151328.0
+460,application_1545136550687_2521,MeasureSparkJob$ - historical - measure_config_2019_wi,1556528507913.0,1556540343892.0
+461,application_1545136550687_2510,MeasureSparkJob$ - historical - measure_config_2017_wi,1556470607400.0,1556511905361.0
+462,application_1545136550687_2511,MeasureSparkJob$ - historical - measure_config_2017_mix,1556471073249.0,1556521927081.0
+463,application_1545136550687_2488,MeasureSparkJob$ - historical - measure_config_2018_mix,1556375190122.0,1556469567039.0
+464,application_1545136550687_2494,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1556425316685.0,1556434457035.0
+465,application_1545136550687_2496,MeasureSparkJob$ - historical - mssp_2018,1556446810162.0,1556479528547.0
+466,application_1545136550687_2495,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1556446760516.0,1556460925194.0
+467,application_1545136550687_2473,MeasureSparkJob$ - historical - measure_config_2018_wi,1556351560139.0,1556417008234.0
+468,application_1545136550687_2468,DeduplicatorSparkJob$ - complete,1556287845420.0,1556289531992.0
+469,application_1545136550687_2707,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556798077353.0,1556820418368.0
+470,application_1545136550687_2679,MeasureSparkJob$ - historical - measure_config_disney_2018,1556792331518.0,1556792362379.0
+471,application_1545136550687_2668,DeduplicatorSparkJob$ - complete,1556787824315.0,1556789847925.0
+472,application_1545136550687_2676,MeasureSparkJob$ - historical - measure_config_disney_2018,1556792020511.0,1556792049515.0
+473,application_1545136550687_2677,MeasureSparkJob$ - historical - measure_config_disney_2017,1556792140132.0,1556792169375.0
+474,application_1545136550687_2648,RiskSparkJob$ - historical - measure_config_risk_2018_model,1556711138547.0,1556724460681.0
+475,application_1545136550687_2654,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556777399985.0,1556778558130.0
+476,application_1545136550687_2656,DeduplicatorSparkJob$ - complete,1556778646458.0,1556778654479.0
+477,application_1545136550687_2655,DeduplicatorSparkJob$ - complete,1556778021793.0,1556778032679.0
+478,application_1545136550687_2658,DeduplicatorSparkJob$ - complete,1556778912447.0,1556778920180.0
+479,application_1545136550687_2657,DeduplicatorSparkJob$ - complete,1556778837561.0,1556778845600.0
+480,application_1545136550687_2659,DeduplicatorSparkJob$ - complete,1556779223864.0,1556779231843.0
+481,application_1545136550687_2632,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556705019073.0,1556715116744.0
+482,application_1545136550687_2633,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1556706152980.0,1556708932117.0
+483,application_1545136550687_2616,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556689904144.0,1556689941420.0
+484,application_1545136550687_2615,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556689739379.0,1556689748006.0
+485,application_1545136550687_2618,MeasureSparkJob$ - historical - mssp_2019,1556690425661.0,1556690447392.0
+486,application_1545136550687_2619,DeduplicatorSparkJob$ - complete,1556690541199.0,1556692063823.0
+487,application_1545136550687_2622,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1556693286788.0,1556693294853.0
+488,application_1545136550687_2621,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1556693070534.0,1556693078794.0
+489,application_1545136550687_2624,DeduplicatorSparkJob$ - complete,1556693694384.0,1556695377552.0
+490,application_1545136550687_2625,MeasureSparkJob$ - historical - mssp_2019,1556693753352.0,1556693775888.0
+491,application_1545136550687_2628,MeasureSparkJob$ - historical - measure_config_2017_mix,1556699138448.0,1556741120762.0
+492,application_1545136550687_2627,DeduplicatorSparkJob$ - complete,1556698170851.0,1556704264952.0
+493,application_1545136550687_2599,MeasureSparkJob$ - historical - measure_config_disney_2018,1556627255384.0,1556629767085.0
+494,application_1545136550687_2602,MeasureSparkJob$ - historical - measure_config_disney_2017,1556630268895.0,1556651769275.0
+495,application_1545136550687_2601,MeasureSparkJob$ - historical - measure_config_disney_2017,1556629979935.0,1556630057410.0
+496,application_1545136550687_2608,MeasureSparkJob$ - historical - mssp_2018,1556643845051.0,1556673449237.0
+497,application_1545136550687_2607,MeasureSparkJob$ - historical - measure_config_2018_wi,1556643650971.0,1556688902433.0
+498,application_1545136550687_2609,MeasureSparkJob$ - historical - mssp_2019,1556680699290.0,1556686319910.0
+499,application_1545136550687_2612,MeasureSparkJob$ - historical - measure_config_disney_2019,1556681481698.0,1556688334420.0
+500,application_1545136550687_2614,MeasureSparkJob$ - historical - measure_config_2019_mix,1556689272168.0,1556690217692.0
+501,application_1545136550687_2613,MeasureSparkJob$ - historical - measure_config_disney_2018,1556688721451.0,1556690215454.0
+502,application_1545136550687_2583,MeasureSparkJob$ - historical - measure_config_disney_2019,1556622106500.0,1556626522576.0
+503,application_1545136550687_2588,MeasureSparkJob$ - historical - measure_config_2019_wi,1556622293618.0,1556632845544.0
+504,application_1545136550687_2838,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1557072343327.0,1557074098413.0
+505,application_1545136550687_2816,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1557025563421.0,1557027272738.0
+506,application_1545136550687_2782,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556945096258.0,1556946019231.0
+507,application_1545136550687_2781,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556944679824.0,1556944688298.0
+508,application_1545136550687_2784,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556952907694.0,1556967209558.0
+509,application_1545136550687_2729,RiskSparkJob$ - historical - measure_config_risk_2019_model,1556862265080.0,1556862897081.0
+510,application_1545136550687_2716,MeasureSparkJob$ - historical - measure_config_disney_2017,1556803585995.0,1556803613384.0
+511,application_1545136550687_2717,MeasureSparkJob$ - historical - measure_config_disney_2017,1556804098540.0,1556804125627.0
+512,application_1545136550687_2720,MeasureSparkJob$ - historical - measure_config_disney_2018,1556805377342.0,1556821630075.0
+513,application_1545136550687_2719,MeasureSparkJob$ - historical - measure_config_disney_2017,1556804806714.0,1556822162542.0
+514,application_1545136550687_2884,MeasureSparkJob$ - historical - mssp_2019,1557154556280.0,1557160931129.0
+515,application_1545136550687_2858,MeasureSparkJob$ - historical - mssp_2019,1557134967535.0,1557137587896.0
+516,application_1545136550687_2866,MeasureSparkJob$ - historical - mssp_2019,1557140388425.0,1557142785795.0
+517,application_1545136550687_3077,MeasureSparkJob$ - historical - tmhp_chronic,1557509998749.0,1557512764339.0
+518,application_1545136550687_3052,MeasureSparkJob$ - historical - disney_chronic,1557483220204.0,1557485919901.0
+519,application_1545136550687_3036,MeasureSparkJob$ - historical - mssp_chronic,1557406167651.0,1557406198343.0
+520,application_1545136550687_3038,MeasureSparkJob$ - historical - mssp_chronic,1557406416048.0,1557406456400.0
+521,application_1545136550687_3037,MeasureSparkJob$ - historical - mssp_chronic,1557406346273.0,1557406387997.0
+522,application_1545136550687_3046,MeasureSparkJob$ - historical - disney_chronic,1557475575657.0,1557478249329.0
+523,application_1545136550687_3192,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557990786845.0,1557990861207.0
+524,application_1545136550687_3191,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557990342307.0,1557990379059.0
+525,application_1545136550687_3193,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557991048822.0,1557991211546.0
+526,application_1545136550687_3180,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557927094285.0,1557927102569.0
+527,application_1545136550687_3179,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557925270694.0,1557925278566.0
+528,application_1545136550687_3189,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557989876106.0,1557989905168.0
+529,application_1545136550687_3170,RiskSparkJob$ - historical - measure_config_risk_HHS_2017_model,1557918178468.0,1557918186051.0
+530,application_1545136550687_3116,MeasureSparkJob$ - historical - mssp_chronic,1557741113396.0,1557745081064.0
+531,application_1545136550687_3115,MeasureSparkJob$ - historical - mssp_chronic,1557740280415.0,1557740290377.0
+532,application_1545136550687_1416,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1553003562567.0,1553013379129.0
+533,application_1545136550687_1427,MeasureSparkJob$ - historical - mssp_2018,1553061494775.0,1553079892055.0
+534,application_1545136550687_1430,RiskSparkJob$ - historical - measure_config_risk_2019_model,1553068639002.0,1553069304476.0
+535,application_1545136550687_1400,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1552979741619.0,1552991263267.0
+536,application_1545136550687_1402,RiskSparkJob$ - historical - measure_config_risk_2018_model,1552985612129.0,1552991263320.0
+537,application_1545136550687_1403,RiskSparkJob$ - historical - measure_config_risk_2019_model,1552985621006.0,1552991061075.0
+538,application_1545136550687_1386,MeasureSparkJob$ - historical - mssp_2018,1552967767240.0,1552974421988.0
+539,application_1545136550687_1385,MeasureSparkJob$ - historical - mssp_2017,1552967708001.0,1552972750528.0
+540,application_1545136550687_1388,RiskSparkJob$ - historical - measure_config_risk_2018_model,1552968605577.0,1552984715136.0
+541,application_1545136550687_1387,RiskSparkJob$ - historical - measure_config_risk_2019_model,1552968585772.0,1552980796427.0
+542,application_1545136550687_1396,MeasureSparkJob$ - historical - measure_config_2017_wi,1552979388796.0,1552991044828.0
+543,application_1545136550687_1395,MeasureSparkJob$ - historical - measure_config_2017_mix,1552979363476.0,1552990971390.0
+544,application_1545136550687_1397,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1552979537362.0,1552991263376.0
+545,application_1545136550687_1367,MeasureSparkJob$ - historical - measure_config_2017_mix,1552911984075.0,1552938363012.0
+546,application_1545136550687_1376,MeasureSparkJob$ - historical - mssp_2017,1552925157335.0,1552952240766.0
+547,application_1545136550687_1377,MeasureSparkJob$ - historical - mssp_2018,1552925283518.0,1552943516209.0
+548,application_1545136550687_1379,DeduplicatorSparkJob$ - complete,1552927944285.0,1552939073001.0
+549,application_1545136550687_1362,DeduplicatorSparkJob$ - complete,1552905852048.0,1552907173420.0
+550,application_1545136550687_1364,MeasureSparkJob$ - historical - measure_config_2018_wi,1552907351020.0,1552981456499.0
+551,application_1545136550687_1366,MeasureSparkJob$ - historical - measure_config_2017_wi,1552911961271.0,1552917651872.0
+552,application_1545136550687_1342,DeduplicatorSparkJob$ - complete,1552813296455.0,1552813437567.0
+553,application_1545136550687_1344,MeasureSparkJob$ - historical - measure_config_2018_wi,1552813996903.0,1552814153249.0
+554,application_1545136550687_1343,MeasureSparkJob$ - historical - measure_config_2018_wi,1552813690892.0,1552813847760.0
+555,application_1545136550687_1345,MeasureSparkJob$ - historical - measure_config_2018_wi,1552814423178.0,1552814578970.0
+556,application_1545136550687_1544,MeasureSparkJob$ - historical - measure_config_2019_wi,1553498477443.0,1553503658818.0
+557,application_1545136550687_1546,MeasureSparkJob$ - historical - measure_config_2019_mix,1553498776757.0,1553508097361.0
+558,application_1545136550687_1528,MeasureSparkJob$ - historical - mssp_2018,1553276741616.0,1553285250962.0
+559,application_1545136550687_1540,MeasureSparkJob$ - historical - measure_config_2018_mix,1553403455002.0,1553493541237.0
+560,application_1545136550687_1539,MeasureSparkJob$ - historical - measure_config_2018_wi,1553403099829.0,1553453881079.0
+561,application_1545136550687_1524,MeasureSparkJob$ - historical - measure_config_2017_mix,1553259100245.0,1553349807927.0
+562,application_1545136550687_1525,MeasureSparkJob$ - historical - mssp_2017,1553267484665.0,1553300335272.0
+563,application_1545136550687_1499,MeasureSparkJob$ - historical - mssp_2018,1553187124643.0,1553207679640.0
+564,application_1545136550687_1502,RiskSparkJob$ - historical - measure_config_risk_2019_model,1553196709138.0,1553220369430.0
+565,application_1545136550687_1504,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1553201096068.0,1553211415352.0
+566,application_1545136550687_1508,MeasureSparkJob$ - historical - measure_config_2017_wi,1553225829066.0,1553266513210.0
+567,application_1545136550687_1507,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1553225707535.0,1553229825142.0
+568,application_1545136550687_1509,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1553232109626.0,1553247302207.0
+569,application_1545136550687_1484,MeasureSparkJob$ - historical - mssp_2018,1553141635546.0,1553150126440.0
+570,application_1545136550687_1487,MeasureSparkJob$ - historical - measure_config_2018_mix,1553147457033.0,1553152385974.0
+571,application_1545136550687_1490,MeasureSparkJob$ - historical - mssp_2018,1553156534689.0,1553172759992.0
+572,application_1545136550687_1431,MeasureSparkJob$ - historical - measure_config_2018_mix,1553068833702.0,1553090468214.0
+573,application_1545136550687_1436,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1553074951118.0,1553088944623.0
+574,application_1545136550687_1440,RiskSparkJob$ - historical - measure_config_risk_2019_model,1553082262401.0,1553086752621.0
+575,application_1545136550687_1444,MeasureSparkJob$ - historical - mssp_2018,1553094040563.0,1553101012796.0
+576,application_1545136550687_1672,DeduplicatorSparkJob$ - complete,1553925634133.0,1553937266387.0
+577,application_1545136550687_1686,MeasureSparkJob$ - historical - measure_config_2018_mix,1554116579454.0,1554116597097.0
+578,application_1545136550687_1664,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2019,1553861272937.0,1553865446335.0
+579,application_1545136550687_1663,MeasureSparkJob$ - historical - measure_config_2019_wi,1553860881561.0,1553866566832.0
+580,application_1545136550687_1666,MeasureSparkJob$ - historical - measure_config_2019_mix_prev_12,1553863186748.0,1553866969106.0
+581,application_1545136550687_1667,MeasureSparkJob$ - historical - mssp_2019,1553873376389.0,1553879226503.0
+582,application_1545136550687_1649,DeduplicatorSparkJob$ - complete,1553847219103.0,1553848567466.0
+583,application_1545136550687_1651,MeasureSparkJob$ - historical - measure_config_2019_wi,1553848998040.0,1553853957361.0
+584,application_1545136550687_1653,MeasureSparkJob$ - historical - measure_config_2019_mix,1553853234605.0,1553862521885.0
+585,application_1545136550687_1608,DeduplicatorSparkJob$ - complete,1553775550071.0,1553785007577.0
+586,application_1545136550687_1597,DeduplicatorSparkJob$ - incremental,1553763531401.0,1553767591888.0
+587,application_1545136550687_1576,DeduplicatorSparkJob$ - complete,1553692809882.0,1553692817994.0
+588,application_1545136550687_1575,DeduplicatorSparkJob$ - complete,1553692572593.0,1553692580292.0
+589,application_1545136550687_1578,DeduplicatorSparkJob$ - complete,1553693091790.0,1553717393056.0
+590,application_1545136550687_1577,DeduplicatorSparkJob$ - complete,1553692955250.0,1553692964534.0
+591,application_1545136550687_1583,MeasureSparkJob$ - historical - measure_config_2019_wi,1553745448381.0,1553745456573.0
+592,application_1545136550687_1585,DeduplicatorSparkJob$ - incremental,1553754293333.0,1553754998046.0
+593,application_1545136550687_1572,DeduplicatorSparkJob$ - complete,1553684394545.0,1553695888937.0
+594,application_1545136550687_1574,DeduplicatorSparkJob$ - complete,1553692436140.0,1553692443527.0
+595,application_1545136550687_1786,DeduplicatorSparkJob$ - complete,1554401389228.0,1554403098807.0
+596,application_1545136550687_1788,MeasureSparkJob$ - historical - measure_config_disney_2017,1554437374447.0,1554443772608.0
+597,application_1545136550687_1790,MeasureSparkJob$ - historical - measure_config_disney_2017,1554448193884.0,1554449158094.0
+598,application_1545136550687_1789,MeasureSparkJob$ - historical - measure_config_disney_2017,1554446363163.0,1554446963204.0
+599,application_1545136550687_1768,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554376135833.0,1554376371877.0
+600,application_1545136550687_1770,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554376396979.0,1554385069060.0
+601,application_1545136550687_1752,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554365954284.0,1554374460943.0
+602,application_1545136550687_1751,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554364552927.0,1554368653854.0
+603,application_1545136550687_1760,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554374548795.0,1554374558731.0
+604,application_1545136550687_1763,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554374761693.0,1554375122884.0
+605,application_1545136550687_1765,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554375175615.0,1554376110552.0
+606,application_1545136550687_1736,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554360313943.0,1554360342649.0
+607,application_1545136550687_1735,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554359960219.0,1554359988922.0
+608,application_1545136550687_1738,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554360982237.0,1554361010967.0
+609,application_1545136550687_1737,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554360956000.0,1554361023602.0
+610,application_1545136550687_1740,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554361421386.0,1554361437256.0
+611,application_1545136550687_1739,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554361112656.0,1554361125975.0
+612,application_1545136550687_1742,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554361870109.0,1554361886483.0
+613,application_1545136550687_1744,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554361969702.0,1554362151154.0
+614,application_1545136550687_1743,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554361882042.0,1554361893893.0
+615,application_1545136550687_1746,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554362521351.0,1554362590234.0
+616,application_1545136550687_1745,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554362494734.0,1554362514833.0
+617,application_1545136550687_1747,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554362583730.0,1554362608951.0
+618,application_1545136550687_1750,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554364539149.0,1554365865499.0
+619,application_1545136550687_1749,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554364467022.0,1554364559032.0
+620,application_1545136550687_1732,DeduplicatorSparkJob$ - complete,1554351881590.0,1554358110966.0
+621,application_1545136550687_1733,RiskSparkJob$ - historical - measure_config_risk_2019_model_2019_data,1554352301143.0,1554355949940.0
+622,application_1545136550687_1703,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554195057945.0,1554197910932.0
+623,application_1545136550687_1706,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554197921723.0,1554208759242.0
+624,application_1545136550687_1710,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554213296838.0,1554213982374.0
+625,application_1545136550687_1711,MeasureSparkJob$ - historical - measure_config_2019_mix_test,1554214000885.0,1554228143952.0
+626,application_1545136550687_1687,MeasureSparkJob$ - historical - measure_config_2018_mix,1554116885980.0,1554122267630.0
+627,application_1545136550687_1690,MeasureSparkJob$ - historical - measure_config_2018_mix,1554123981386.0,1554128025789.0
+628,application_1545136550687_1700,MeasureSparkJob$ - historical--kryo - measure_config_2019_mix,1554194699569.0,1554194709140.0
+629,application_1545136550687_1702,MeasureSparkJob$ - historical - measure_config_2019_mix,1554194873671.0,1554194899929.0
+630,application_1545136550687_1701,MeasureSparkJob$ - historical - measure_config_2019_mix,1554194761882.0,1554194842329.0
+631,application_1545136550687_1927,DeduplicatorSparkJob$ - complete,1554726025866.0,1554727589269.0
+632,application_1545136550687_1929,MeasureSparkJob$ - historical - measure_config_disney_2017,1554729531418.0,1554734450286.0
+633,application_1545136550687_1936,MeasureSparkJob$ - historical - measure_config_disney_2017,1554796055387.0,1554805820319.0
+634,application_1545136550687_1940,DeduplicatorSparkJob$ - complete,1554797251296.0,1554797353458.0
+635,application_1545136550687_1939,DeduplicatorSparkJob$ - complete,1554797010260.0,1554797036010.0
+636,application_1545136550687_1911,MeasureSparkJob$ - historical - measure_config_disney_2017,1554708015840.0,1554711560773.0
+637,application_1545136550687_1918,MeasureSparkJob$ - historical - measure_config_disney_2017,1554719566688.0,1554723292031.0
+638,application_1545136550687_1908,MeasureSparkJob$ - historical - measure_config_disney_2017,1554707364253.0,1554707482567.0
+639,application_1545136550687_1907,MeasureSparkJob$ - historical - measure_config_disney_2017,1554706750646.0,1554706759500.0
+640,application_1545136550687_1910,MeasureSparkJob$ - historical - measure_config_disney_2017,1554707890988.0,1554707979565.0
+641,application_1545136550687_1909,MeasureSparkJob$ - historical - measure_config_disney_2017,1554707497433.0,1554707655692.0
+642,application_1545136550687_1881,MeasureSparkJob$ - historical - measure_config_disney_2017,1554532163871.0,1554539303958.0
+643,application_1545136550687_1886,MeasureSparkJob$ - historical - measure_config_2018_wi,1554573708694.0,1554573783985.0
+644,application_1545136550687_1887,MeasureSparkJob$ - historical - measure_config_2018_wi,1554573922346.0,1554574013253.0
+645,application_1545136550687_1864,MeasureSparkJob$ - historical - measure_config_disney_2017,1554468904373.0,1554475173287.0
+646,application_1545136550687_1853,MeasureSparkJob$ - historical - measure_config_disney_2017,1554461980279.0,1554465814787.0
+647,application_1545136550687_1860,MeasureSparkJob$ - historical - measure_config_disney_2017,1554466088408.0,1554466416607.0
+648,application_1545136550687_1829,MeasureSparkJob$ - historical - measure_config_disney_2017,1554455346672.0,1554456115374.0
+649,application_1545136550687_2066,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555309039650.0,1555309076641.0
+650,application_1545136550687_2065,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555301584535.0,1555301610108.0
+651,application_1545136550687_2068,MeasureSparkJob$ - historical - measure_config_disney_2018,1555310496228.0,1555311302566.0
+652,application_1545136550687_2069,DeduplicatorSparkJob$ - complete,1555312532478.0,1555312565147.0
+653,application_1545136550687_2040,MeasureSparkJob$ - historical - disney_chronic,1555069997045.0,1555070032074.0
+654,application_1545136550687_2039,MeasureSparkJob$ - historical - disney_chronic,1555069485826.0,1555069520999.0
+655,application_1545136550687_2042,MeasureSparkJob$ - historical - disney_chronic,1555070303490.0,1555070339198.0
+656,application_1545136550687_2041,MeasureSparkJob$ - historical - disney_chronic,1555070156863.0,1555070190762.0
+657,application_1545136550687_2043,MeasureSparkJob$ - historical - disney_chronic,1555070427102.0,1555073997173.0
+658,application_1545136550687_2046,MeasureSparkJob$ - historical - measure_config_disney_2017,1555073583013.0,1555073711209.0
+659,application_1545136550687_2048,MeasureSparkJob$ - historical - measure_config_disney_2017,1555074125713.0,1555089535026.0
+660,application_1545136550687_2047,MeasureSparkJob$ - historical - measure_config_disney_2017,1555073897894.0,1555074025296.0
+661,application_1545136550687_2052,MeasureSparkJob$ - historical - mssp_chronic,1555077345848.0,1555081711252.0
+662,application_1545136550687_2025,MeasureSparkJob$ - historical - measure_config_disney_2017,1555051646594.0,1555051675209.0
+663,application_1545136550687_2027,MeasureSparkJob$ - historical - measure_config_disney_2017,1555052221712.0,1555052250084.0
+664,application_1545136550687_2030,MeasureSparkJob$ - historical - measure_config_disney_2017,1555058204778.0,1555058232132.0
+665,application_1545136550687_2029,MeasureSparkJob$ - historical - measure_config_disney_2017,1555057977359.0,1555058004697.0
+666,application_1545136550687_2032,MeasureSparkJob$ - historical - measure_config_disney_2017,1555058416127.0,1555058443019.0
+667,application_1545136550687_2031,MeasureSparkJob$ - historical - measure_config_disney_2017,1555058332499.0,1555058360306.0
+668,application_1545136550687_2035,DeduplicatorSparkJob$ - complete,1555065387479.0,1555068963666.0
+669,application_1545136550687_2038,MeasureSparkJob$ - historical - disney_chronic,1555069358204.0,1555069392544.0
+670,application_1545136550687_1978,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1554812313598.0,1554812341385.0
+671,application_1545136550687_1984,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1554880681178.0,1554880835300.0
+672,application_1545136550687_1986,MeasureSparkJob$ - historical - measure_config_2017_mix,1554880923891.0,1554881168174.0
+673,application_1545136550687_1985,MeasureSparkJob$ - historical - measure_config_2017_wi,1554880899010.0,1554881033107.0
+674,application_1545136550687_1988,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1554882106247.0,1554882208351.0
+675,application_1545136550687_1987,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1554882074455.0,1554882134946.0
+676,application_1545136550687_1989,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1554882227127.0,1554882323419.0
+677,application_1545136550687_1959,MeasureSparkJob$ - historical - measure_config_disney_2017,1554807099381.0,1554807115741.0
+678,application_1545136550687_1962,MeasureSparkJob$ - historical - measure_config_disney_2017,1554807770315.0,1554807850464.0
+679,application_1545136550687_1961,MeasureSparkJob$ - historical - measure_config_disney_2017,1554807508560.0,1554807590404.0
+680,application_1545136550687_1963,MeasureSparkJob$ - historical - measure_config_disney_2017,1554808192657.0,1554809352931.0
+681,application_1545136550687_1966,MeasureSparkJob$ - historical - measure_config_2018_wi,1554809299070.0,1554809691116.0
+682,application_1545136550687_1965,MeasureSparkJob$ - historical - measure_config_2018_mix,1554809283385.0,1554809417587.0
+683,application_1545136550687_1968,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1554809338599.0,1554809364221.0
+684,application_1545136550687_1967,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1554809311898.0,1554809474856.0
+685,application_1545136550687_1970,MeasureSparkJob$ - historical - mssp_2018,1554810124048.0,1554810188792.0
+686,application_1545136550687_1969,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1554809584942.0,1554809691149.0
+687,application_1545136550687_1972,MeasureSparkJob$ - historical - mssp_2017,1554810666862.0,1554810790963.0
+688,application_1545136550687_1971,MeasureSparkJob$ - historical - mssp_2018,1554810595415.0,1554810837399.0
+689,application_1545136550687_1974,MeasureSparkJob$ - historical - mssp_2017,1554811546441.0,1554811779816.0
+690,application_1545136550687_1973,MeasureSparkJob$ - historical - mssp_2018,1554811539674.0,1554811909855.0
+691,application_1545136550687_1944,MeasureSparkJob$ - historical - measure_config_2018_wi,1554800020888.0,1554800047957.0
+692,application_1545136550687_1943,DeduplicatorSparkJob$ - complete,1554799168074.0,1554799217798.0
+693,application_1545136550687_1946,MeasureSparkJob$ - historical - measure_config_2018_mix,1554800323335.0,1554800385375.0
+694,application_1545136550687_1945,MeasureSparkJob$ - historical - measure_config_2018_mix,1554800063641.0,1554800091456.0
+695,application_1545136550687_1947,MeasureSparkJob$ - historical - measure_config_2018_wi,1554800372768.0,1554800420855.0
+696,application_1545136550687_1950,MeasureSparkJob$ - historical - measure_config_2018_wi,1554803083236.0,1554803135014.0
+697,application_1545136550687_1949,DeduplicatorSparkJob$ - complete,1554801196949.0,1554802022395.0
+698,application_1545136550687_1952,MeasureSparkJob$ - historical - measure_config_2018_wi,1554803417535.0,1554804388029.0
+699,application_1545136550687_1951,MeasureSparkJob$ - historical - measure_config_2018_mix,1554803105652.0,1554803892968.0
+700,application_1545136550687_1954,MeasureSparkJob$ - historical - measure_config_2018_wi,1554805160552.0,1554805602438.0
+701,application_1545136550687_1956,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1554805725309.0,1554805800523.0
+702,application_1545136550687_1955,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1554805468640.0,1554805495189.0
+703,application_1545136550687_2088,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555327263954.0,1555327281464.0
+704,application_1545136550687_2087,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555327148333.0,1555327165816.0
+705,application_1545136550687_2094,MeasureSparkJob$ - historical - measure_config_disney_2018,1555327927170.0,1555342191795.0
+706,application_1545136550687_2093,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555327777391.0,1555327980351.0
+707,application_1545136550687_2072,MeasureSparkJob$ - historical - measure_config_disney_2018,1555314949182.0,1555323942728.0
+708,application_1545136550687_2074,DeduplicatorSparkJob$ - complete,1555324052989.0,1555324091210.0
+709,application_1545136550687_2076,DeduplicatorSparkJob$ - complete,1555324857228.0,1555324940925.0
+710,application_1545136550687_2081,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555325364512.0,1555325480672.0
+711,application_1545136550687_2084,DeduplicatorSparkJob$ - complete,1555325799477.0,1555325816364.0
+712,application_1545136550687_2086,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555327026913.0,1555327043537.0
+713,application_1545136550687_2085,RiskSparkJob$ - historical - measure_config_risk_2019_model,1555326424954.0,1555326535797.0
+714,application_1545136550687_0270,DeduplicatorSparkJob$ - complete,1547335663889.0,1547336254983.0
+715,application_1545136550687_0272,MeasureSparkJob$ - historical - measure_config_2018_wi,1547337040893.0,1547353986909.0
+716,application_1545136550687_0271,MeasureSparkJob$ - historical - measure_config_2017_wi,1547336746104.0,1547350928727.0
+717,application_1545136550687_0274,MeasureSparkJob$ - historical - measure_config_2018_mix,1547337192363.0,1547338967246.0
+718,application_1545136550687_0273,MeasureSparkJob$ - historical - measure_config_2017_mix,1547337095492.0,1547338848062.0
+719,application_1545136550687_0276,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1547337348820.0,1547344821173.0
+720,application_1545136550687_0275,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1547337292461.0,1547343181595.0
+721,application_1545136550687_0278,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1547337533352.0,1547346848217.0
+722,application_1545136550687_0277,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1547337442681.0,1547345660594.0
+723,application_1545136550687_0406,DeduplicatorSparkJob$ - complete,1547738603905.0,1547739226785.0
+724,application_1545136550687_0280,MeasureSparkJob$ - historical - measure_config_2017_mix,1547339750839.0,1547343226881.0
+725,application_1545136550687_0282,MeasureSparkJob$ - historical - measure_config_2018_wi,1547358968992.0,1547375160035.0
+726,application_1545136550687_0281,MeasureSparkJob$ - historical - measure_config_2018_mix,1547339830329.0,1547343272428.0
+727,application_1545136550687_0284,MeasureSparkJob$ - historical - measure_config_2018_mix,1547359072054.0,1547382712375.0
+728,application_1545136550687_0283,MeasureSparkJob$ - historical - measure_config_2017_mix,1547359027278.0,1547381836174.0
+729,application_1545136550687_0285,DeduplicatorSparkJob$ - complete,1547377551496.0,1547381775023.0
+730,application_1545136550687_0288,RiskSparkJob$ - historical - measure_config_risk_2019_model,1547383568533.0,1547389237448.0
+731,application_1545136550687_0289,RiskSparkJob$ - historical - measure_config_risk_2018_model,1547383940247.0,1547389629451.0
+732,application_1545136550687_0522,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548747364627.0,1548747372941.0
+733,application_1545136550687_0521,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548746396881.0,1548746406706.0
+734,application_1545136550687_0524,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548753410361.0,1548753902326.0
+735,application_1545136550687_0523,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548747956098.0,1548747968216.0
+736,application_1545136550687_0528,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548761382877.0,1548761554646.0
+737,application_1545136550687_0529,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548762573040.0,1548765403382.0
+738,application_1545136550687_0534,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548767876893.0,1548768219944.0
+739,application_1545136550687_0533,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548766834635.0,1548766908697.0
+740,application_1545136550687_0504,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548661093290.0,1548661121867.0
+741,application_1545136550687_0503,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548659839162.0,1548659867951.0
+742,application_1545136550687_0505,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548662053440.0,1548662082029.0
+743,application_1545136550687_0510,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548677262373.0,1548677291054.0
+744,application_1545136550687_0512,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548678331376.0,1548678366082.0
+745,application_1545136550687_0511,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548677423862.0,1548677486293.0
+746,application_1545136550687_0514,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548679545491.0,1548679555450.0
+747,application_1545136550687_0513,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548678456787.0,1548678471205.0
+748,application_1545136550687_0516,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548680520299.0,1548680529908.0
+749,application_1545136550687_0515,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548679747336.0,1548679757147.0
+750,application_1545136550687_0490,RiskSparkJob$ - historical - measure_config_risk_2018_model,1548424134993.0,1548424146276.0
+751,application_1545136550687_0489,RiskSparkJob$ - historical - measure_config_risk_2018_model,1548423896233.0,1548423927135.0
+752,application_1545136550687_0502,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548658522769.0,1548658532085.0
+753,application_1545136550687_0424,MeasureSparkJob$ - historical - mssp_2018,1547826263735.0,1547838881578.0
+754,application_1545136550687_0425,MeasureSparkJob$ - historical - mssp_2017,1547828034502.0,1547839607813.0
+755,application_1545136550687_0410,MeasureSparkJob$ - historical - mssp_2017,1547796903650.0,1547804938888.0
+756,application_1545136550687_0409,MeasureSparkJob$ - historical - mssp_2018,1547796863129.0,1547799112576.0
+757,application_1545136550687_0420,MeasureSparkJob$ - historical - mssp_2018,1547821345751.0,1547823573883.0
+758,application_1545136550687_0419,DeduplicatorSparkJob$ - complete,1547818041274.0,1547818676102.0
+759,application_1545136550687_0421,MeasureSparkJob$ - historical - mssp_2017,1547821755604.0,1547827511861.0
+760,application_1545136550687_0616,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549291712626.0,1549302293274.0
+761,application_1545136550687_0584,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549030753284.0,1549030770298.0
+762,application_1545136550687_0583,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549030539858.0,1549030561823.0
+763,application_1545136550687_0586,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549031532717.0,1549031549591.0
+764,application_1545136550687_0585,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549030812997.0,1549030864009.0
+765,application_1545136550687_0598,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549272748258.0,1549291096547.0
+766,application_1545136550687_0576,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549022496811.0,1549022508973.0
+767,application_1545136550687_0578,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549022785186.0,1549022792924.0
+768,application_1545136550687_0577,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549022746012.0,1549022754032.0
+769,application_1545136550687_0580,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549025322379.0,1549025922985.0
+770,application_1545136550687_0579,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549024707693.0,1549024736753.0
+771,application_1545136550687_0582,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549026374536.0,1549029320077.0
+772,application_1545136550687_0581,RiskSparkJob$ - historical - measure_config_risk_2019_model,1549026051298.0,1549026366473.0
+773,application_1545136550687_0535,RiskSparkJob$ - historical - measure_config_risk_2019_model,1548768486628.0,1548774214958.0
+774,application_1545136550687_0775,RiskSparkJob$ - historical - measure_config_risk_2019_model,1550219466478.0,1550219499539.0
+775,application_1545136550687_0786,RiskSparkJob$ - historical - measure_config_risk_2018_model,1550227590534.0,1550227623618.0
+776,application_1545136550687_0787,DeduplicatorSparkJob$ - complete,1550228614773.0,1550241745127.0
+777,application_1545136550687_0774,RiskSparkJob$ - historical - measure_config_risk_2018_model,1550219382451.0,1550219416739.0
+778,application_1545136550687_0745,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1550156809913.0,1550162618010.0
+779,application_1545136550687_0754,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1550166693790.0,1550176511603.0
+780,application_1545136550687_0755,MeasureSparkJob$ - historical - measure_config_2018_mix,1550166793329.0,1550214025255.0
+781,application_1545136550687_0757,DeduplicatorSparkJob$ - complete,1550171946451.0,1550172691477.0
+782,application_1545136550687_0730,MeasureSparkJob$ - historical - measure_config_2017_wi,1550148771779.0,1550166163623.0
+783,application_1545136550687_0729,DeduplicatorSparkJob$ - complete,1550145908327.0,1550146874518.0
+784,application_1545136550687_0734,MeasureSparkJob$ - historical - measure_config_2018_wi,1550152057083.0,1550182345675.0
+785,application_1545136550687_0737,MeasureSparkJob$ - historical - measure_config_2017_mix,1550152547477.0,1550185002461.0
+786,application_1545136550687_0740,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1550152806255.0,1550162102840.0
+787,application_1545136550687_0739,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1550152738033.0,1550161558049.0
+788,application_1545136550687_0896,MeasureSparkJob$ - historical - mssp_2017,1550587715440.0,1550601648039.0
+789,application_1545136550687_0895,MeasureSparkJob$ - historical - mssp_2018,1550587688072.0,1550600712336.0
+790,application_1545136550687_0898,RiskSparkJob$ - historical - measure_config_risk_2019_model,1550588185602.0,1550601968769.0
+791,application_1545136550687_0872,MeasureSparkJob$ - historical - mssp_2017,1550502978363.0,1550516364620.0
+792,application_1545136550687_0823,MeasureSparkJob$ - historical - mssp_2017,1550479579801.0,1550485715604.0
+793,application_1545136550687_0826,MeasureSparkJob$ - historical - mssp_2018,1550491325757.0,1550503693527.0
+794,application_1545136550687_0816,MeasureSparkJob$ - historical - mssp_2017,1550470221679.0,1550470692270.0
+795,application_1545136550687_0818,MeasureSparkJob$ - historical - mssp_2017,1550471856055.0,1550473242801.0
+796,application_1545136550687_0817,MeasureSparkJob$ - historical - mssp_2018,1550470280519.0,1550470722852.0
+797,application_1545136550687_0820,MeasureSparkJob$ - historical - mssp_2017,1550473430827.0,1550474202171.0
+798,application_1545136550687_0822,MeasureSparkJob$ - historical - mssp_2018,1550478432629.0,1550480901793.0
+799,application_1545136550687_0821,MeasureSparkJob$ - historical - mssp_2018,1550473457424.0,1550474206421.0
+800,application_1545136550687_0792,RiskSparkJob$ - historical - measure_config_risk_2018_model,1550255586033.0,1550307115418.0
+801,application_1545136550687_0791,RiskSparkJob$ - historical - measure_config_risk_2019_model,1550255541298.0,1550302792768.0
+802,application_1545136550687_0999,RiskSparkJob$ - historical - measure_config_risk_2019_model,1550757199862.0,1550766262146.0
+803,application_1545136550687_1002,MeasureSparkJob$ - historical - mssp_2018,1550758760913.0,1550774921083.0
+804,application_1545136550687_1001,MeasureSparkJob$ - historical - mssp_2017,1550758712410.0,1550777575622.0
+805,application_1545136550687_0998,RiskSparkJob$ - historical - measure_config_risk_2018_model,1550757171444.0,1550764860806.0
+806,application_1545136550687_0016,RiskSparkJob$ - historical - measure_config_risk_2019_model,1545227753254.0,1545227848453.0
+807,application_1545136550687_0015,DeduplicatorSparkJob$ - complete,1545213615174.0,1545216689431.0
+808,application_1545136550687_0018,RiskSparkJob$ - historical - measure_config_risk_2018_model,1545228823526.0,1545228922721.0
+809,application_1545136550687_0017,RiskSparkJob$ - historical - measure_config_risk_2018_model,1545227804205.0,1545227923933.0
+810,application_1545136550687_0020,RiskSparkJob$ - historical - measure_config_risk_2019_model,1545229490915.0,1545238636075.0
+811,application_1545136550687_0019,RiskSparkJob$ - historical - measure_config_risk_2018_model,1545229334565.0,1545236825922.0
+812,application_1545136550687_0120,MeasureSparkJob$ - historical - measure_config_2017_mix,1546104551112.0,1546132906831.0
+813,application_1545136550687_0119,MeasureSparkJob$ - historical - measure_config_2017_wi,1546103893626.0,1546125084439.0
+814,application_1545136550687_0122,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2017,1546105004452.0,1546243782899.0
+815,application_1545136550687_0121,MeasureSparkJob$ - historical - measure_config_2018_mix,1546104752909.0,1546133891281.0
+816,application_1545136550687_0124,MeasureSparkJob$ - historical - measure_config_2017_mix_prev_12,1546105243417.0,1546250426599.0
+817,application_1545136550687_0123,MeasureSparkJob$ - historical - measure_config_wi_prev_12_2018,1546105098134.0,1546223037971.0
+818,application_1545136550687_0125,MeasureSparkJob$ - historical - measure_config_2018_mix_prev_12,1546105331826.0,1546236041236.0
+819,application_1545136550687_0128,RiskSparkJob$ - historical - measure_config_risk_2018_model,1546144378646.0,1546152245824.0
+820,application_1545136550687_0127,DeduplicatorSparkJob$ - complete,1546139736636.0,1546143793516.0
+821,application_1545136550687_0129,RiskSparkJob$ - historical - measure_config_risk_2019_model,1546144469781.0,1546152862128.0
+822,application_1545136550687_0104,MeasureSparkJob$ - historical - measure_config_2018_wi,1546077576110.0,1546077604515.0
+823,application_1545136550687_0103,MeasureSparkJob$ - historical - measure_config_2018_wi,1546074341329.0,1546074452254.0
+824,application_1545136550687_0106,MeasureSparkJob$ - historical - measure_config_2018_wi,1546078143124.0,1546078152139.0
+825,application_1545136550687_0105,MeasureSparkJob$ - historical - measure_config_2018_wi,1546077828415.0,1546077856737.0
+826,application_1545136550687_0108,MeasureSparkJob$ - historical - measure_config_2018_wi,1546079889711.0,1546079918013.0
+827,application_1545136550687_0107,MeasureSparkJob$ - historical - measure_config_2018_wi,1546079650200.0,1546079678664.0
+828,application_1545136550687_0109,MeasureSparkJob$ - historical - measure_config_2018_wi,1546082540634.0,1546082651195.0
+829,application_1545136550687_0112,MeasureSparkJob$ - historical - measure_config_2018_wi,1546085348840.0,1546085457304.0
+830,application_1545136550687_0114,MeasureSparkJob$ - historical - measure_config_2018_wi,1546091728626.0,1546095464117.0
+831,application_1545136550687_0115,DeduplicatorSparkJob$ - complete,1546095645227.0,1546096211338.0
+832,application_1545136550687_0118,MeasureSparkJob$ - historical - measure_config_2018_wi,1546103584358.0,1546124264343.0
+833,application_1545136550687_0117,DeduplicatorSparkJob$ - complete,1546102530786.0,1546103044103.0
+834,application_1545136550687_0088,MeasureSparkJob$ - historical - measure_config_2017_wi,1546055152675.0,1546055160601.0
+835,application_1545136550687_0090,MeasureSparkJob$ - historical - measure_config_2017_mix,1546055292437.0,1546055300418.0
+836,application_1545136550687_0089,MeasureSparkJob$ - historical - measure_config_2018_wi,1546055211406.0,1546055220120.0
+837,application_1545136550687_0092,MeasureSparkJob$ - historical - measure_config_2018_mix,1546056120864.0,1546056149267.0
+838,application_1545136550687_0091,MeasureSparkJob$ - historical - measure_config_2018_mix,1546055353062.0,1546055361254.0
+839,application_1545136550687_0094,MeasureSparkJob$ - historical - measure_config_2017_wi,1546057334992.0,1546057441372.0
+840,application_1545136550687_0093,MeasureSparkJob$ - historical - measure_config_2017_wi,1546056553517.0,1546056581709.0
+841,application_1545136550687_0096,MeasureSparkJob$ - historical - measure_config_2018_wi,1546058698182.0,1546058794641.0
+842,application_1545136550687_0095,MeasureSparkJob$ - historical - measure_config_2018_wi,1546058310286.0,1546058419244.0
+843,application_1545136550687_0098,MeasureSparkJob$ - historical - measure_config_2018_wi,1546060705211.0,1546060730427.0
+844,application_1545136550687_0097,MeasureSparkJob$ - historical - measure_config_2018_wi,1546060037519.0,1546060148655.0
+845,application_1545136550687_0100,MeasureSparkJob$ - historical - measure_config_2018_wi,1546064398985.0,1546064442307.0
+846,application_1545136550687_0099,MeasureSparkJob$ - historical - measure_config_2018_wi,1546060906908.0,1546060949270.0
+847,application_1545136550687_0102,MeasureSparkJob$ - historical - measure_config_2018_wi,1546064712424.0,1546064821664.0
+848,application_1545136550687_0101,MeasureSparkJob$ - historical - measure_config_2018_wi,1546064559415.0,1546064601841.0
+849,application_1545136550687_0086,DeduplicatorSparkJob$ - complete,1546041507717.0,1546042273455.0
